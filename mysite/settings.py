@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 't+b1qhr%5ud6pgix@m1cl2!0fne&lc0g^pg-&aa1!h$=bsc04o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'alexennder.pythonanywhere.com', '192.168.0.115', '192.168.0.114', 'www.macbenah.se', 'macbenah.se']
 
